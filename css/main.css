@@ -484,7 +484,6 @@ ul li {
 	letter-spacing:1px;
 }
 .subscribe p {
-	margin:5% 10% 7% 10%;
 	color: #fff;
 	font-size:14px;
 	line-height:21px;
@@ -633,6 +632,7 @@ ul li {
 .footer {
 	text-align: center;
 	background-color:#201f22;
+	padding: 20px 0;
 }
 .footer p {
 	font-family: "Roboto", sans-serif;
